@@ -4,27 +4,31 @@
 
 ## Expectations:
 
+Certainly! I've removed some redundancy in the expectations section and here are the changes made:
+
+## Expectations:
+
 ### Street Promotion:
-- 📦 **Poster and Flyer Distribution**: Promoters are expected to distribute posters and flyers at strategic locations within their designated promotional area, which may include up to three different locations in your area.
-- 🏫 **School Promotion**: Posters should be placed in schools, and flyers should be distributed in lockers, classrooms, restrooms, and other relevant areas. Seek permission before posting materials in restricted areas and refrain from obnoxious distribution of materials as this could result in adverse action against our company and your termination from the team.
-- 🏪 **Retail Promotion**: Approach nearby retail establishments to inquire about placing a small stack of posters or flyers.
-- 📦 **Supplies Maintenance**: Keep an inventory of necessary supplies, including posters, flyers, postering tape, a staple gun, staples, and a promotional bag to carry materials. Ensure you have these supplies when needed.
-- 🕺 **Kandi and Rave Attire**: While not mandatory, wearing kandi and rave-related clothing is highly recommended, especially when working with us.
-- 🔄 **Bi-Weekly Poster Runs**: Conduct event let-out poster runs and club-runs every two weeks.
-- 🗓️ **Weekly School Promotion**: Ensure school postering and flyering is done on a weekly basis.
-- 📸 **Documentation**: Take pictures of your promotional efforts and upload them to Swarm. Coordinate with the promo manager to verify completion of tasks. You can download Swarm from the app store and use the provided credentials:
+1. 📦 **Distribution of Promotional Materials**: Promoters are expected to distribute posters and flyers at strategic locations within their designated promotional area.
+2. 🏫 **School Promotion**: Posters should be placed in schools, and flyers should be distributed in lockers, classrooms, restrooms, and other relevant areas. Seek permission before posting materials in restricted areas and avoid obnoxious distribution.
+3. 🏪 **Retail Promotion**: Approach nearby retail establishments to inquire about placing a small stack of posters or flyers.
+4. 📦 **Supplies Maintenance**: Keep an inventory of necessary supplies, including posters, flyers, postering tape, a staple gun, staples, and a promotional bag to carry materials. Ensure you have these supplies when needed.
+5. 🕺 **Kandi and Rave Attire**: While not mandatory, wearing kandi and rave-related clothing is highly recommended.
+6. 🔄 **Bi-Weekly Poster Runs**: Conduct event let-out, poster runs, and club-runs at least once every two weeks.
+7. 🗓️ **Weekly School Promotion**: Ensure school postering and flyering is done at your school or within your designated area on a weekly basis.
+8. 📸 **Documentation**: Take pictures of your promotional efforts and upload them to Swarm. Coordinate with the promo manager to verify completion of tasks. You can download Swarm from the app store and use the provided credentials:
   
-  📱 **Username**: info@pluralliance.org
-  🔐 **Password**: Rave2plur2023
+   📱 **Username**: info@pluralliance.org
+   🔐 **Password**: Rave2plur2023
 
 ### Social Media Promotion:
-- 📸 **Instagram Posts**: Post at least three times a week, including a general So Stoked post, a repost of your favorite artist's graphic, and a discount code post with your promoter graphic. The general So Stoked post should be pinned to your profile. Share any upcoming events.
+- 📸 **Instagram Posts**: Post at least three times a month, including a general So Stoked post, a repost of your favorite artist's graphic, and a discount code post with your promoter graphic. The general So Stoked post should be pinned to your profile. Share any upcoming events as directed by the Promotion Manager.
 - 📸 **Instagram Stories**: Post 1-7 times a day, including interactive polls, sliders, and more.
 - 🎥 **Reels**: Share at least one reel per week.
 - 🎥 **Livestreaming**: Occasionally, livestream to showcase team efforts or invite others to our events. Collaborate with artists and fellow promoters to keep the community engaged.
 - 🎵 **TikTok Promotion**:
   - 🕺 **Showcase Dance Moves**: Create fun and energetic dance videos using popular tracks from our upcoming events.
-  - 🎶 **Music Snippets**: Share short clips of event headliner tracks or catchy music that attendees can expect.
+  - 🎶 **Music Snippets**: Share short clips of event headliner tracks or catchy music that attendees can expect to hear at our raves.
   - 🚀 **Event Teasers**: Post teasers of event highlights, behind-the-scenes footage, or sneak peeks of the venue.
   - 🎁 **Contests and Challenges**: Launch event-related challenges or contests to engage the TikTok community.
   - 🌟 **Collaborate with Influencers**: Partner with TikTok influencers who align with our event style and promote together.
@@ -35,25 +39,18 @@
   - 💰 **Exclusive Deals**: Use Snapchat for limited-time offers, discounts, and exclusive promotions for your audience.
   - 🎤 **Live Event Updates**: Keep your Snapchat audience informed with live updates during events, including artist performances and special announcements.
   
-- 📸 **Tagging**: Always tag artists, our company (@PlurAlliance), and any relevant individuals in your social media posts.
-- 📸 **Group Photos**: Take pictures with friends and the promo team and tag them in posts, ideally at least once per event you attend.
-
-### Postering and Flyering:
-1. 📦 **Distribution of Promotional Materials**: Promoters are expected to distribute posters and flyers at strategic locations within the designated promotional area.
-2. 📆 **Knowledge of Event Details**: You should have a thorough understanding of the event details, including the date, time, venue, DJ/artist lineup, and any special promotions or themes.
-3. 🤝 **Professionalism**: Interact with the public in a friendly, respectful, and professional manner while promoting our events.
-4. 📊 **Reporting**: Keep track of your promotional efforts, such as the number of flyers distributed and locations covered, and report back regularly to your supervisor. Upload all photos to Swarm.
-
+- 📸 **Tagging**: Always tag artists, our company (@PlurAlliance), and any relevant individuals in your promotional social media posts.
+- 📸 **Group Photos**: Take pictures with your friends on the promo team and tag them in posts, ideally at least once per event you attend.
 ## Rewards and Benefits:
 
 ### Compensation:
-1. 💰 **Earnings**: Promoters will receive a commission for every patron they bring to the event. The more guests you bring, the higher your earnings.
+1. 💰 **Earnings**: Promoters will receive a commission for every patron they bring to the event. The more guests you bring, the higher your earnings. Our commission system is based on a unique code given to each promoter. Please discuss your commission options with your Promotion Manager.
 2. 🎟️ **Free Entry and VIP Perks**: Promoters often enjoy free entry to our events and may have access to VIP areas, depending on their performance.
 3. 🎯 **Incentives**: We offer additional incentives for high-performing promoters, including bonuses and rewards for hitting specific targets.
 4. 🤝 **Networking Opportunities**: Working as a promoter provides excellent networking opportunities within the nightlife and entertainment industry.
 
 ### Additional Benefits:
-- 🎧 **DJ lessons, Music Production Lessons, Lighting/Sound Lessons, Graphic Design Lessons**
+- 🎧 **DJ lessons, Music Production Lessons, Marketing Lessons, Lighting/Sound Lessons, Graphic Design Lessons**
 - 🎤 **Paid Positions**: Paid positions may be available; inquire with your promotions manager.
 - 🥳 **Guest List Access**: Access to various events, including massives like EDC and smaller clubs and underground events.
 - 🛍️ **Swag**: Receive free swag, including t-shirts, hoodies, plur pasties, binkeys, and more.
@@ -67,8 +64,8 @@
 
 ## Minimum Requirements:
 1. 💖 **Interest**: Promoters must share a genuine love for the events we create.
-2. ⏰ **Availability**: Promoters should be available to promote events on the agreed-upon dates and times. In general, expect to spend up to 10 hours per week on promotion-related tasks.
-3. 🚗 **Transportation**: Access to reliable transportation is essential for reaching promotional locations. Contact a team member or manager to coordinate transportation and give us advanced notice if issues arise.
+2. ⏰ **Availability**: Promoters should be available to promote events on the agreed-upon dates and times. In general, expect to spend anywhere from 1 to 10 hours per week on promotion-related tasks.
+3. 🚗 **Transportation**: Access to reliable transportation is essential for reaching promotional locations. Contact a team member or manager to coordinate transportation and give us advanced notice if issues arise. If you have a car, please let us know as this will help coordinate rides for other promoters.
 4. 🗨️ **Communication Skills**: Strong communication skills and the ability to engage with potential patrons are vital.
 5. 🎊 **Event Knowledge**: A good understanding of the specific event you are promoting, as well as our brand and values.
 6. 👗 **Appearance**: Promoters should present themselves in a clean, presentable, and fashion-forward manner.
@@ -76,7 +73,7 @@
 
 ## Rules:
 
-1. ☮️ **P.L.U.R. Principle**: Embrace Peace, Love, Unity, and Respect. Avoid starting drama, fights, or making negative comments about our events, venues, team, or artists.
+1. ☮️ **P.L.U.R. Principle**: Embrace Peace, Love, Unity, and Respect. Avoid starting drama, fights, or making negative comments especially about our events, venues, team, or artists.
 2. ❌ **No Drug Sales**: Do not sell drugs.
 3. 🚫 **Exclusivity**: Do not promote other events, work other events simultaneously, or promote events the same weekend as ours.
 
@@ -85,11 +82,11 @@
 
 ## Promoter Statuses:
 
-👥 **Active**: Promoters consistently meet or exceed all requirements for either the work term or the past 3 months (whichever is applicable). Active promoters are eligible for all benefits and may qualify for additional incentives if they consistently exceed minimum requirements.
+👥 **Active**: Promoters consistently meet or exceed all requirements for either their entire work term or the past 3 months (whichever is applicable). Active promoters are eligible for all benefits and may qualify for additional incentives if they consistently exceed minimum requirements.
 
-🔇 **Inactive**: Promoters who do not meet requirements or have minor rule breaches are considered inactive. Inactive promoters may still be eligible for limited benefits at the discretion of the promotions manager.
+🔇 **Inactive**: Promoters who do not meet requirements or have broken the rules are considered inactive. Inactive promoters may still be eligible for limited benefits at the discretion of the promotions manager.
 
-🚫 **Terminated**: Promoters who fail to meet requirements for at least two consecutive weeks or four total weeks or violate rules severely are subject to termination. The severity of the offense is determined solely by the promotions manager.
+🚫 **Terminated**: Promoters who fail to meet requirements for at least two consecutive weeks or four total weeks or serverly violate rules are subject to termination. The severity of an offense is determined solely by the promotions manager.
 
 ## Next Steps:
 
