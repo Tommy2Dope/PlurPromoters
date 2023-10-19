@@ -4,10 +4,6 @@
 
 ## Expectations:
 
-Certainly! I've removed some redundancy in the expectations section and here are the changes made:
-
-## Expectations:
-
 ### Street Promotion:
 1. 📦 **Distribution of Promotional Materials**: Promoters are expected to distribute posters and flyers at strategic locations within their designated promotional area.
 2. 🏫 **School Promotion**: Posters should be placed in schools, and flyers should be distributed in lockers, classrooms, restrooms, and other relevant areas. Seek permission before posting materials in restricted areas and avoid obnoxious distribution.
