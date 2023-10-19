@@ -1,6 +1,6 @@
-# Rave Promoter Onboarding Document
+# Rave Promoter Onboarding
 
-🎉 Welcome to the exciting world of event promotion! As a rave promoter, you play a crucial role in ensuring the success of our events and creating memorable experiences for our patrons. This onboarding document outlines the expectations, rewards, and minimum requirements for becoming a promoter.
+🎉 Welcome to the exciting world of event promotion! As a rave promoter, you play a crucial role in ensuring the success of our events and creating memorable experiences for our patrons. This onboarding document outlines the expectations, rewards, rules, and requirements for becoming a promoter.
 
 ## Expectations:
 
@@ -42,9 +42,7 @@
 1. 📦 **Distribution of Promotional Materials**: Promoters are expected to distribute posters and flyers at strategic locations within the designated promotional area.
 2. 📆 **Knowledge of Event Details**: You should have a thorough understanding of the event details, including the date, time, venue, DJ/artist lineup, and any special promotions or themes.
 3. 🤝 **Professionalism**: Interact with the public in a friendly, respectful, and professional manner while promoting our events.
-4. 📊 **Reporting**: Keep track of your promotional
-
- efforts, such as the number of flyers distributed and locations covered, and report back regularly to your supervisor. Upload all photos to Swarm.
+4. 📊 **Reporting**: Keep track of your promotional efforts, such as the number of flyers distributed and locations covered, and report back regularly to your supervisor. Upload all photos to Swarm.
 
 ## Rewards and Benefits:
 
@@ -62,8 +60,8 @@
 - 🚀 **Skip the Line**: Bypass the regular lines and gain faster entry to our events.
 - 🧥 **Free Coat Check**: Complimentary coat check service at our events.
 - 💧 **Free Water**: Stay hydrated with free bottled water available at our events.
-- 🎫 **VIP Promoter-Only Section**: Access a dedicated VIP section with soda, snacks, and water, suitable for all ages. Exclusive 21+ sections with complimentary alcohol are also available to our older promoters.
-- 📌 **Promoter Lanyards and Badges**: Proudly wear your promoter lanyards and badges to represent our brand.
+- 🎫 **VIP Promoter-Only Section**: Access a dedicated VIP section with soda, snacks, and water. VIP is suitable for all ages. Exclusive 21+ sections with complimentary alcohol are also available to our older promoters.
+- 📌 **Promoter Lanyards and Badges**: Proudly wear your promoter lanyards and badges to represent our brand, enter VIP, and skip lines.
 - 🌟 **Headliner/Artist Meet-and-Greets**: Get the chance to meet headlining artists and performers.
 - 🎉 **Promoter Group Outings**: Join in on fun group outings, including movie nights, bowling, Rocky Horror Picture Show, boating, laser tag, paintball, arcade games, and even out-of-town trips (hotels, parties, snow days).
 
@@ -81,6 +79,9 @@
 1. ☮️ **P.L.U.R. Principle**: Embrace Peace, Love, Unity, and Respect. Avoid starting drama, fights, or making negative comments about our events, venues, team, or artists.
 2. ❌ **No Drug Sales**: Do not sell drugs.
 3. 🚫 **Exclusivity**: Do not promote other events, work other events simultaneously, or promote events the same weekend as ours.
+
+**Note**: Please discreetly let us know if your fellow promoters are in breach of these rules, but if you snitch on them for just a minor offense it reflects poorly on you and is likely to annoy your supervisor who probably doesn't want to waste their time analyzing the drama at all.
+
 
 ## Promoter Statuses:
 
