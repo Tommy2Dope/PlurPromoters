@@ -34,11 +34,14 @@
 6. 🕺 **Kandi and Rave Attire**: While not mandatory, wearing kandi and rave-related clothing is highly recommended.
 7. 📸 **Documentation**: Take pictures of your promotional efforts and upload them to Swarm. Coordinate with the Promotion Manager to verify completion of tasks. You can download Swarm from the app store and use the credentials provided by your Promotion Manager (Thomas).
 8. 🎃 **Event Attendance**: Attend events regularly, especially ours (which are free to you and provide a dirth of benifits).
+9. ✨ **Event Setup**: Help set-up and tear-down our events as requested.
+
 ### Social Media Promotion:
-- 📸 **Instagram Posts**: Post at least three times a month, including a general So Stoked post, a repost of your favorite artist's graphic, and a discount code post with your promoter graphic. The general So Stoked post should be pinned to your profile. Share any upcoming events as directed by the Promotion Manager.
-- 📸 **Instagram Stories**: Post 1-7 times a day, including interactive polls, sliders, and more.
-- 🎥 **Reels**: Share at least one reel per week.
-- 🎥 **Livestreaming**: Occasionally, livestream to showcase team efforts or invite others to our events. Collaborate with artists and fellow promoters to keep the community engaged.
+- 🎵 **Instagram Promotion**:
+  - 📸 **Instagram Posts**: Post at least three times a month, including a general So Stoked post, a repost of your favorite artist's graphic, and a discount code post with your promoter graphic. The general So Stoked post should be pinned to your profile. Share any upcoming events as directed by the Promotion Manager.
+  - 📸 **Instagram Stories**: Post 1-7 times a day, including interactive polls, sliders, and more.
+  - 🎥 **Reels**: Share at least one reel per week.
+  - 🎥 **Livestreaming**: Occasionally, livestream to showcase team efforts or invite others to our events. Collaborate with artists and fellow promoters to keep the community engaged.
 - 🎵 **TikTok Promotion**:
   - 🕺 **Showcase Dance Moves**: Create fun and energetic dance videos using popular tracks from our upcoming events.
   - 🎶 **Music Snippets**: Share short clips of event headliner tracks or catchy music that attendees can expect to hear at our raves.
