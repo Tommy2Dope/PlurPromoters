@@ -27,17 +27,13 @@
 
 ### Street Promotion:
 1. 📦 **Distribution of Promotional Materials**: Promoters are expected to distribute posters and flyers at strategic locations within their designated promotional area.
-2. 🏫 **School Promotion**: Posters should be placed in schools, and flyers should be distributed in lockers, classrooms, restrooms, and other relevant areas. Seek permission before posting materials in restricted areas and avoid obnoxious distribution.
-3. 🏪 **Retail Promotion**: Approach nearby retail establishments to inquire about placing a small stack of posters or flyers.
-4. 📦 **Supplies Maintenance**: Keep an inventory of necessary supplies, including posters, flyers, postering tape, a staple gun, staples, and a promotional bag to carry materials. Ensure you have these supplies when needed.
-5. 🕺 **Kandi and Rave Attire**: While not mandatory, wearing kandi and rave-related clothing is highly recommended.
-6. 🔄 **Bi-Weekly Poster Runs**: Conduct event let-out, poster runs, and club-runs at least once every two weeks.
-7. 🗓️ **Weekly School Promotion**: Ensure school postering and flyering is done at your school or within your designated area on a weekly basis.
-8. 📸 **Documentation**: Take pictures of your promotional efforts and upload them to Swarm. Coordinate with the promo manager to verify completion of tasks. You can download Swarm from the app store and use the provided credentials:
-  
-   📱 **Username**: info@pluralliance.org
-   🔐 **Password**: Rave2plur2023
-
+2. 🏫 **School Promotion**: Ensure school postering and flyering is done at your school or within your designated area on a weekly basis. Posters should be placed in schools, and flyers should be distributed in lockers, classrooms, restrooms, and other relevant areas. Seek permission before posting materials in restricted areas and avoid obnoxious distribution.
+3. 🏪 **Retail Promotion**: Approach nearby retail establishments to inquire about leaving a small stack of flyers or placing posters in windows & on posterboards.
+4. 🔄 **Bi-Weekly Promo Runs**: Conduct event let-out, poster runs, or club-runs at least once every two weeks.
+5. 📦 **Supplies Maintenance**: Keep an inventory of necessary supplies, including posters, flyers, postering tape, a staple gun, staples, and a promotional bag to carry materials. Ensure you have these supplies when needed. Supplies will be provided or reimbursed with receipt of purchase.
+6. 🕺 **Kandi and Rave Attire**: While not mandatory, wearing kandi and rave-related clothing is highly recommended.
+7. 📸 **Documentation**: Take pictures of your promotional efforts and upload them to Swarm. Coordinate with the Promotion Manager to verify completion of tasks. You can download Swarm from the app store and use the credentials provided by your Promotion Manager (Thomas).
+8. 🎃 **Event Attendance**: Attend events regularly, especially ours (which are free to you and provide a dirth of benifits).
 ### Social Media Promotion:
 - 📸 **Instagram Posts**: Post at least three times a month, including a general So Stoked post, a repost of your favorite artist's graphic, and a discount code post with your promoter graphic. The general So Stoked post should be pinned to your profile. Share any upcoming events as directed by the Promotion Manager.
 - 📸 **Instagram Stories**: Post 1-7 times a day, including interactive polls, sliders, and more.
