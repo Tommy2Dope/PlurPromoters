@@ -2,6 +2,27 @@
 
 🎉 Welcome to the exciting world of event promotion! As a rave promoter, you play a crucial role in ensuring the success of our events and creating memorable experiences for our patrons. This onboarding document outlines the expectations, rewards, rules, and requirements for becoming a promoter.
 
+## Rewards and Benefits:
+
+### Compensation:
+1. 💰 **Earnings**: Promoters will receive a commission for every patron they bring to the event. The more guests you bring, the higher your earnings. Our commission system is based on a unique code given to each promoter. Please discuss your commission options with your Promotion Manager.
+2. 🎟️ **Free Entry and VIP Perks**: Promoters often enjoy free entry to our events and may have access to VIP areas, depending on their performance.
+3. 🎯 **Incentives**: We offer additional incentives for high-performing promoters, including bonuses and rewards for hitting specific targets.
+4. 🤝 **Networking Opportunities**: Working as a promoter provides excellent networking opportunities within the nightlife and entertainment industry.
+
+### Additional Benefits:
+- 🎧 **DJ lessons, Music Production Lessons, Marketing Lessons, Lighting/Sound Lessons, Graphic Design Lessons**
+- 🎤 **Paid Positions**: Paid positions may be available; inquire with your promotions manager.
+- 🥳 **Guest List Access**: Access to various events, including massives like EDC and smaller clubs and underground events.
+- 🛍️ **Swag**: Receive free swag, including t-shirts, hoodies, plur pasties, binkeys, and more.
+- 🚀 **Skip the Line**: Bypass the regular lines and gain faster entry to our events.
+- 🧥 **Free Coat Check**: Complimentary coat check service at our events.
+- 💧 **Free Water**: Stay hydrated with free bottled water available at our events.
+- 🎫 **VIP Promoter-Only Section**: Access a dedicated VIP section with soda, snacks, and water. VIP is suitable for all ages. Exclusive 21+ sections with complimentary alcohol are also available to our older promoters.
+- 📌 **Promoter Lanyards and Badges**: Proudly wear your promoter lanyards and badges to represent our brand, enter VIP, and skip lines.
+- 🌟 **Headliner/Artist Meet-and-Greets**: Get the chance to meet headlining artists and performers.
+- 🎉 **Promoter Group Outings**: Join in on fun group outings, including movie nights, bowling, Rocky Horror Picture Show, boating, laser tag, paintball, arcade games, and even out-of-town trips (hotels, parties, snow days).
+
 ## Expectations:
 
 ### Street Promotion:
@@ -37,26 +58,6 @@
   
 - 📸 **Tagging**: Always tag artists, our company (@PlurAlliance), and any relevant individuals in your promotional social media posts.
 - 📸 **Group Photos**: Take pictures with your friends on the promo team and tag them in posts, ideally at least once per event you attend.
-## Rewards and Benefits:
-
-### Compensation:
-1. 💰 **Earnings**: Promoters will receive a commission for every patron they bring to the event. The more guests you bring, the higher your earnings. Our commission system is based on a unique code given to each promoter. Please discuss your commission options with your Promotion Manager.
-2. 🎟️ **Free Entry and VIP Perks**: Promoters often enjoy free entry to our events and may have access to VIP areas, depending on their performance.
-3. 🎯 **Incentives**: We offer additional incentives for high-performing promoters, including bonuses and rewards for hitting specific targets.
-4. 🤝 **Networking Opportunities**: Working as a promoter provides excellent networking opportunities within the nightlife and entertainment industry.
-
-### Additional Benefits:
-- 🎧 **DJ lessons, Music Production Lessons, Marketing Lessons, Lighting/Sound Lessons, Graphic Design Lessons**
-- 🎤 **Paid Positions**: Paid positions may be available; inquire with your promotions manager.
-- 🥳 **Guest List Access**: Access to various events, including massives like EDC and smaller clubs and underground events.
-- 🛍️ **Swag**: Receive free swag, including t-shirts, hoodies, plur pasties, binkeys, and more.
-- 🚀 **Skip the Line**: Bypass the regular lines and gain faster entry to our events.
-- 🧥 **Free Coat Check**: Complimentary coat check service at our events.
-- 💧 **Free Water**: Stay hydrated with free bottled water available at our events.
-- 🎫 **VIP Promoter-Only Section**: Access a dedicated VIP section with soda, snacks, and water. VIP is suitable for all ages. Exclusive 21+ sections with complimentary alcohol are also available to our older promoters.
-- 📌 **Promoter Lanyards and Badges**: Proudly wear your promoter lanyards and badges to represent our brand, enter VIP, and skip lines.
-- 🌟 **Headliner/Artist Meet-and-Greets**: Get the chance to meet headlining artists and performers.
-- 🎉 **Promoter Group Outings**: Join in on fun group outings, including movie nights, bowling, Rocky Horror Picture Show, boating, laser tag, paintball, arcade games, and even out-of-town trips (hotels, parties, snow days).
 
 ## Minimum Requirements:
 1. 💖 **Interest**: Promoters must share a genuine love for the events we create.
