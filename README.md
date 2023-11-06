@@ -6,8 +6,9 @@
 
 ### Perks:
 1. 🎟️ **Free Entry and VIP**: Promoters enjoy free entry to our events and may have access to VIP areas.
-2. 🎯 **Incentives**: We offer additional incentives for high-performing promoters, including rewards for hitting specific targets.
-3. 🤝 **Networking Opportunities**: Working as a promoter provides excellent networking opportunities within the nightlife, entertainment, and music industries.
+2. 🎊 **Event Production**: Get help building your own events and learn everything you need to produce stellar events!
+3. 🎯 **Incentives**: We offer additional incentives for high-performing promoters, including rewards for hitting specific targets.
+4. 🤝 **Networking Opportunities**: Working as a promoter provides excellent networking opportunities within the nightlife, entertainment, and music industries.
 
 ### Benefits:
 - 🎧 **Lessions**: DJ lessons, music production lessons, marketing lessons, lighting/sound lessons, and graphic design lessons are available free to promoters. 
