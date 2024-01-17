@@ -81,8 +81,6 @@
 
 🔇 **Inactive**: Promoters who do not meet requirements or have broken the rules are considered inactive. Inactive promoters may still be eligible for limited benefits at the discretion of the Promotion Manager.
 
-🚫 **Terminated**: Promoters who fail to meet requirements for at least two consecutive weeks or four total weeks or severly violate rules are subject to termination. The severity of an offense is determined solely by the Promotions Manager.
-
 ## Next Steps:
 
 👣 Please review this document carefully and ensure that you are prepared for your onboarding session. If you have any questions or need further clarification, don't hesitate to contact the Promotion Manager. We're excited to have you on board as a rave promoter and look forward to your contributions to our events. Let's work together to create unforgettable nights for our fellow ravers!
